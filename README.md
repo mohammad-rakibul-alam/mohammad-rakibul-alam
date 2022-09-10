@@ -2,7 +2,7 @@
 #### Data Scientist from Dhaka, Bangladesh
 ![Data Scientist from Dhaka, Bangladesh](https://pbs.twimg.com/media/FcEKPGBaMAACexZ?format=jpg&name=4096x4096)
 
-I did my 2nd Master's in Applied Statistics & Data Science from Jahangirnagar University, Dhaka, Bangladesh. Also completed Post-Graduate Diploma in Information & Communication Technology from Bangladesh Computer Council. My bachelor's & master's degree was in Sociology from the University of Dhaka, Bangladesh.
+I did my Master's in Applied Statistics & Data Science from Jahangirnagar University, Dhaka, Bangladesh. Also completed Post-Graduate Diploma in Information & Communication Technology from Bangladesh Computer Council. My bachelor's & master's degree was in Sociology from the University of Dhaka, Bangladesh.
 
 Skills: SPSS / STATA / Python / R / ArcGIS / MS Office / Machine Learning / Artificial Intelligence / Neural Network / Computer Vision / Data Visualization, Analysis, Interpretation, Statistical Test / Graphic Design / SEO / HTML / CSS / JavaScript / PHP / Bootstrap / WordPress etc. 
 
